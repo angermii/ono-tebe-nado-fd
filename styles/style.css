@@ -106,7 +106,6 @@
 }
 
 .cover__description {
-  font-family: inherit;
   color: white;
   font-size: 22px;
   text-transform: uppercase;
@@ -216,7 +215,6 @@
 
 .lots__look-more-link {
   display: block;
-  font-family: inherit;
   font-size: 20px;
   padding: 30px 40px;
   text-underline-offset: 4px;
